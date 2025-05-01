@@ -24,5 +24,5 @@ PerPixelLookOnce/
 ├── requirements.txt       # Required libraries
 └── README.md              # Project documentation
 
-```bash
+## Usage
 python detect.py --image ./data/sample.jpg --prompt "car"
