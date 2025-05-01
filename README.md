@@ -23,6 +23,11 @@ PerPixelLookOnce/
 ├── config.yaml            # Model config
 ├── requirements.txt       # Required libraries
 └── README.md              # Project documentation
+```
+ **Note:**
 
-## Usage
+To run the model and detect objects in an image based on a prompt:
+ 
+```bash
 python detect.py --image ./data/sample.jpg --prompt "car"
+```
