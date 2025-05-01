@@ -23,3 +23,6 @@ PerPixelLookOnce/
 ├── config.yaml            # Model config
 ├── requirements.txt       # Required libraries
 └── README.md              # Project documentation
+
+```bash
+python detect.py --image ./data/sample.jpg --prompt "car"
