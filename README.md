@@ -14,8 +14,7 @@
 
 ```bash
 PerPixelLookOnce/
-├── models/
-│   └── model.py           # YOLOv3 based + Self-Attention +Axial Attention architecture
+├── model.py           # YOLOv3 based + Self-Attention +Axial Attention architecture
 ├── data/
 │   └── sample.jpg         # Sample image for testing
 ├── detect.py              # Inference script
